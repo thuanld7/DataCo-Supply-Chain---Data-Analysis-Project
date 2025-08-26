@@ -6,7 +6,7 @@ A comprehensive project analyzing a large supply chain dataset from DataCo Globa
 ## Dataset
 - Source: `DescriptionDataCoSupplyChain.csv` (~180 k rows)
 - Domains: Customer, Product, Transaction, Shipping
-
+- Download here: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 ## Tools
 - Excel, SQL Server (via DBeaver/T-SQL), Power BI
 
