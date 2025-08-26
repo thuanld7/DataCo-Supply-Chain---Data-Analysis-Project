@@ -27,5 +27,5 @@ A comprehensive project analyzing a large supply chain dataset from DataCo Globa
 - **Regional strengths**: Europe and Latin America deliver most profit—strategic focus suggested
 
 ## Dashboard
-Includes performance overview, delivery performance, and product & customer analysis. Available via Power BI [DataCo SC Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjZhYjBlMmUtNjQzNS00NDJmLWEzNTctMTI3YTM0YWJlYjNjIiwidCI6IjAzNjI5MGYxLWZlZjItNGI0MS1hZTU4LWNhOWY2ZTAxZDI4YiIsImMiOjEwfQ%3D%3D&source=post_page-----fc70429a7154---------------------------------------).
+Includes performance overview, delivery performance, and product & customer analysis. Available via Power BI [DataCo SC Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjZhYjBlMmUtNjQzNS00NDJmLWEzNTctMTI3YTM0YWJlYjNjIiwidCI6IjAzNjI5MGYxLWZlZjItNGI0MS1hZTU4LWNhOWY2ZTAxZDI4YiIsImMiOjEwfQ%3D%3D).
 
