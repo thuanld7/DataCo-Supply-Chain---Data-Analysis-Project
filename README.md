@@ -1,12 +1,15 @@
 # DataCo Supply Chain Analysis Project
 
+## Full Project Walkthrough
+For a detailed explanation of each step (data cleaning, modeling, and insights), read my Medium article: [DataCo Supply Chain – Data Analysis Project](https://medium.com/@thuankuner113/dataco-supply-chain-data-analysis-project-fc70429a7154)
+
 ## Overview
 A comprehensive project analyzing a large supply chain dataset from DataCo Global, aiming to clean data, build a structured model, and derive actionable insights.
 
 ## Dataset
 - Source: `DescriptionDataCoSupplyChain.csv` (~180 k rows)
 - Domains: Customer, Product, Transaction, Shipping
-- Download here: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+- Download here: [Kaggle-DataCo SC Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
 ## Tools
 - Excel, SQL Server (via DBeaver/T-SQL), Power BI
 
@@ -24,5 +27,5 @@ A comprehensive project analyzing a large supply chain dataset from DataCo Globa
 - **Regional strengths**: Europe and Latin America deliver most profit—strategic focus suggested
 
 ## Dashboard
-Includes performance overview, delivery performance, and product & customer analysis. Available via Power BI.
+Includes performance overview, delivery performance, and product & customer analysis. Available via Power BI [DataCo SC Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjZhYjBlMmUtNjQzNS00NDJmLWEzNTctMTI3YTM0YWJlYjNjIiwidCI6IjAzNjI5MGYxLWZlZjItNGI0MS1hZTU4LWNhOWY2ZTAxZDI4YiIsImMiOjEwfQ%3D%3D&source=post_page-----fc70429a7154---------------------------------------).
 
